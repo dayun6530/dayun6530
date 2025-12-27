@@ -2,7 +2,13 @@
 
 # ✨ Hello, I'm Dayun! ✨
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Welcome+to+my+Github+🧸" />
+  <h1 style="font-size: 3.5em; color: #FF69B4; font-family: 'Nanum Gothic'; margin-bottom: 0;">
+    KEEP <span style="color: #FFB6C1;">GOING</span>,
+  </h1>
+  <h1 style="font-size: 3.5em; color: #FF69B4; font-family: 'Nanum Gothic'; margin-top: 0;">
+    KEEP <span style="color: #FFB6C1;">GROWING</span> ✨
+  </h1>
+  <p style="font-size: 1.2em; color: #888;">지속 가능한 성장을 지향하는 [본인이름]의 공간입니다</p>
 </div>
 
 ---
