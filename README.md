@@ -2,13 +2,12 @@
 
 # ✨ Hello, I'm Dayun! ✨
 <div align="center">
-  <h1 style="font-size: 3.5em; color: #FF69B4; font-family: 'Nanum Gothic'; margin-bottom: 0;">
-    KEEP <span style="color: #FFB6C1;">GOING</span>,
-  </h1>
-  <h1 style="font-size: 3.5em; color: #FF69B4; font-family: 'Nanum Gothic'; margin-top: 0;">
-    KEEP <span style="color: #FFB6C1;">GROWING</span> ✨
-  </h1>
-  <p style="font-size: 1.2em; color: #888;">지속 가능한 성장을 지향하는 [본인이름]의 공간입니다</p>
+  <br>
+  <img src="https://img.shields.io/badge/LOVELY-FFB6C1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/TRENDY-FF69B4?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/DEVELOPER-FF1493?style=for-the-badge&logoColor=white" />
+  <h2 align="center" style="color: #FF69B4; border-bottom: none;">안녕하세요, 둥글게 소통하는 개발자입니다 🧸</h2>
+  <br>
 </div>
 
 ---
