@@ -21,8 +21,11 @@
 
 ### 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dayun6530&show_icons=true&theme=rose_pine&bg_color=fff0f5&title_color=ff69b4&text_color=4b4b4b&icon_color=ff69b4" alt="Stats Card" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayun6530&layout=compact&theme=rose_pine&bg_color=fff0f5&title_color=ff69b4&text_color=4b4b4b" alt="Top Langs" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dayun6530&theme=react-dark&color=ffb6c1&line=ff69b4&point=ffffff&area=true&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dayun6530&theme=rose_pine" width="100%" />
 </p>
 
 ---
