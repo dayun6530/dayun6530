@@ -1,6 +1,9 @@
 <div align="center">
 
-# ✨ Hello, I'm Dayun! ✨
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffb6c1&height=150&section=header&text=Hello,%20I'm%20Dayun!&fontSize=50&animation=twinkling&fontColor=ffffff" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=FrontEnd+Developer;Happy+Coding+Everyday!+🧸" alt="Typing SVG" />
 </p>
