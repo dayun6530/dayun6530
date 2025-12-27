@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://github.com/유저아이디/레포지토리명/raw/main/image_63cf46.png" width="200" />
-
 # ✨ Hello, I'm Dayun! ✨
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Lovely+and+Trendy+Developer;Building+sweet+solutions+✨;Welcome+to+my+Github+🧸" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Welcome+to+my+Github+🧸" />
 </div>
 
 ---
