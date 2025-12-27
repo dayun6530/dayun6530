@@ -11,8 +11,8 @@
 
 <table bgcolor="#FFF0F5" style="border-radius: 20px;">
   <tr>
-    <td align="center" style="padding: 20px; border: none;">
-      <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,java,py,c,cpp,mysql,aws,docker,vercel,figma,notion,git,github&perline=8" />
+    <td align="center" style="padding: 25px; border: none;">
+      <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,java,py,c,cpp,mysql,aws,docker,vercel,figma,notion,git,github&perline=16" />
       <br><br>
       <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
     </td>
