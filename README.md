@@ -8,6 +8,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=FrontEnd+Developer;Happy+Coding+Everyday!+🧸" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdayun6530%2Fdayun6530&count_bg=%23FFB6C1&title_bg=%23FFB6C1&icon=hearts.svg&icon_color=%23FFFFFF&title=Lovers&edge_flat=false" alt="Hits">
+</p>
 ---
 
 ### 🛠 Tech Stacks
