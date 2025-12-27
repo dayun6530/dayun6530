@@ -30,7 +30,7 @@
 ### 🏆 Baekjoon Tier
 <p align="center">
   <a href="https://solved.ac/dlekdbs">
-    <img src="http://mazassumnida.vercel.app/api/v2/generate_badge?boj=dayun6530" alt="Baekjoon Badge" />
+    <img src="http://mazassumnida.vercel.app/api/v2/generate_badge?boj=dlekdbs" alt="Baekjoon Badge" />
   </a>
 </p>
 
@@ -38,9 +38,6 @@
 
 ### 📫 Contact Me
 <p align="center">
-  <a href="https://www.instagram.com/_dayun_2">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
   <a href="mailto:dlekdbs6530@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
