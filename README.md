@@ -1,14 +1,9 @@
 <div align="center">
 
 # ✨ Hello, I'm Dayun! ✨
-<div align="center">
-  <br>
-  <img src="https://img.shields.io/badge/LOVELY-FFB6C1?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/TRENDY-FF69B4?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/DEVELOPER-FF1493?style=for-the-badge&logoColor=white" />
-  <h2 align="center" style="color: #FF69B4; border-bottom: none;">안녕하세요, 둥글게 소통하는 개발자입니다 🧸</h2>
-  <br>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffb6c1&height=200&section=header&text=WELCOME%20TO%20MY%20LOG&fontSize=50&animation=twinkling&fontColor=ffffff" />
+</p>
 
 ---
 
