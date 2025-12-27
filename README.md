@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Two%20Hearts.png" width="30" vertical-align="middle" />
-  <img src="https://komarev.com/ghpvc/?username=dayun6530&label=LOVERS&color=ffb6c1&style=flat-square" vertical-align="middle" />
+  <img src="https://komarev.com/ghpvc/?username=dayun6530&label=VISITOR&color=ffb6c1&style=flat-square" vertical-align="middle" />
 </p>
 
 ---
