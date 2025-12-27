@@ -2,7 +2,7 @@
 
 # ✨ Hello, I'm Dayun! ✨
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffb6c1&height=200&section=header&text=WELCOME%20TO%20MY%20LOG&fontSize=50&animation=twinkling&fontColor=ffffff" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=FrontEnd+Developer;Happy+Coding+Everyday!+🧸" alt="Typing SVG" />
 </p>
 
 ---
