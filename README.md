@@ -9,9 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/dayun6530">
-    <img src="https://img.shields.io/badge/-FFB6C1?style=flat-square&logo=heart&logoColor=white" alt="Heart Icon" style="vertical-align: middle;"><img src="https://komarev.com/ghpvc/?username=dayun6530&label=&color=ffb6c1&style=flat-square" alt="Hits" style="vertical-align: middle;">
-  </a>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdayun6530&count_bg=%23FFB6C1&title_bg=%23FFB6C1&icon=hearts.svg&icon_color=%23FFFFFF&title=Lovers&edge_flat=false" alt="Hits">
 </p>
 
 ---
