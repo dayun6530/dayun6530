@@ -28,11 +28,7 @@
 ---
 
 ### 🏆 Baekjoon Tier
-<p align="center">
-  <a href="https://solved.ac/dlekdbs">
-    <img src="http://mazassumnida.vercel.app/api/v2/generate_badge?boj=dlekdbs" alt="Baekjoon Badge" />
-  </a>
-</p>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlekdbs)](https://solved.ac/dlekdbs/)
 
 ---
 
